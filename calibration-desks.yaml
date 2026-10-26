@@ -46,3 +46,20 @@ custom-fields:
     hidden: true
     default-value: "Vehicle 2 Hidden"
 
+   - name: Release Date
+    argument-name: rel-date
+    type: TextBox
+    attribute-suid: "T31_96"
+
+
+
+  - name: Build Number
+    argument-name: build-number
+    type: SpinEdit
+    default-value: 7
+    required: true
+    
+  - name: Is Production
+    argument-name: productive
+    type: CheckBox
+
