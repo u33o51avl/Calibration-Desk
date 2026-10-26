@@ -21,8 +21,8 @@ calibration:
 #
 custom-fields:
 
-  - name: start Model.CONNECT
-    argument-name: start-model-connect
+  - name: Model.CONNECT
+    argument-name: model-connect
     type: CheckBox
     required: false
     default-value: "False"
