@@ -43,7 +43,7 @@ custom-fields:
     values:
       - Vehicle 1 Hidden
       - Vehicle 2 Hidden
-    hidden: true
+    hidden: false
     default-value: "Vehicle 2 Hidden"
 
   - name: Release Date
