@@ -1,6 +1,6 @@
 script-path: ./script.py
 clone-mode: Full
-cb-selection: false
+cb-selection: true
 node-dump: true
 
 calibration:
